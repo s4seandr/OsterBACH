@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frohe Ostern Matti! 🐣</title>
+  <link rel="icon" href="https://s4seandr.github.io/OsterBACH/favicon.ico" type="image/x-icon">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fef6e4;
+      color: #001858;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2em 1em;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 1em;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      margin-bottom: 2em;
+    }
+    audio {
+      margin-top: 2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Frohe Ostern Matti! 🐣</h1>
+    <video src="https://s4seandr.github.io/OsterBACH/img/haus_4a/Matti.mp4" autoplay loop controls>
+        Dein Browser unterstützt dieses Video-Format nicht.
+    </video>
+  <footer>
+        <p><a href="https://s4seandr.github.io/OsterBACH/highlights.html">Für mehr hier klicken!</a></p>
+  </footer>
+</body>
+</html>
